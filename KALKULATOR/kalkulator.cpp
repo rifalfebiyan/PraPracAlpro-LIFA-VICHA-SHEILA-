@@ -3,7 +3,6 @@
 #include <string>
 
 using namespace std;
-
 int main(){
 	
 	int bil1,bil2, pil;
